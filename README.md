@@ -42,11 +42,8 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammaduzair17&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammaduzair17&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammaduzair17&show_icons=true&locale=en&theme=dark" alt="GitHub Stats"/>
 </p>
 
 <h3 align="left">Connect with me:</h3>
