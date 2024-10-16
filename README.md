@@ -1,6 +1,6 @@
 ![logo](https://media.licdn.com/dms/image/v2/D4D16AQERZjDIan5bMg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1713211334092?e=1734566400&v=beta&t=MRHhnaZQD5j4lV_kx9F6ft7ZyPdhRSJCO3ExrRIbZ2E)
 <h1 align="center">Hi 👋, I'm Muhammad Uzair</h1>
-<h3 align="center">Data Analyst passionate about transforming data into insights. Currently exploring the realms of Machine Learning and AI.</h3>
+<h3 align="center">I am a Data Analyst, passionate about transforming data into insights. Currently exploring the realms of Machine Learning and AI.</h3>
 
 <p align="center">
   <img alt="Data Science Image" width="300" src="https://foresightbi.com.ng/wp-content/uploads/2023/07/ezgif.com-video-to-gif.gif">
