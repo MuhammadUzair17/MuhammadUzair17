@@ -25,7 +25,7 @@
 <ul>
   <li><strong>Data Cleaning with POSTGRE SQL</strong></li>
   <li><strong>Data Cleaning with Pandas</strong></li>
-  <li><strong>Exploratory Data Analysis with Pandas</strong></li>
+  <li><strong>Exploratory Data Analysis with Pandas,Matplotlib & Seaborn</strong></li>
 </ul>
 
 <h3 align="left">Languages & Tools:</h3>
