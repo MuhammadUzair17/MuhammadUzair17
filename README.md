@@ -1,4 +1,3 @@
-[logo](https://media.licdn.com/dms/image/v2/D4D16AQERZjDIan5bMg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1713211334092?e=1734566400&v=beta&t=MRHhnaZQD5j4lV_kx9F6ft7ZyPdhRSJCO3ExrRIbZ2E)
 <h1 align="center">Hi 👋, I'm Muhammad Uzair</h1>
 <h3 align="center">I am a Data Analyst, passionate about transforming data into insights. Currently exploring the realms of Machine Learning and AI.</h3>
 
