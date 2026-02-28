@@ -3,7 +3,7 @@
 <h3 align="center">Data Scientist | Machine Learning | NLP | Computer Vision | Agentic AI Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=620&lines=Machine+Learning+Engineer;NLP+%26+Computer+Vision+Enthusiast;Agentic+AI+%26+RAG+Explorer;Turning+Data+into+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=620&lines=Data+Scientist;NLP+%26+Computer+Vision+;Agentic+AI+%26+RAG+Explorer;Turning+Data+into+Decisions" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-I'm a **Data Scientist** based in Karachi, Pakistan, with a strong foundation in Machine Learning, Deep Learning, Natural Language Processing, and Computer Vision. I'm passionate about building intelligent systems that solve real-world problems — and I'm actively exploring cutting-edge AI paradigms like **Agentic AI** and **RAG-based applications**.
+I'm a **Data Scientist** based in Karachi, Pakistan, with a strong foundation in Machine Learning, Deep Learning, Natural Language Processing, and Computer Vision. I'm passionate about building intelligent systems that solve real-world problems, and I'm actively exploring cutting-edge AI paradigms like **Agentic AI** and **RAG-based applications**.
 
 I believe in learning by building, and I'm always experimenting with new models, architectures, and ideas to push my understanding of what AI can do.
 
