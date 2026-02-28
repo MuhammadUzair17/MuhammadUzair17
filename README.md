@@ -3,39 +3,25 @@
 <h3 align="center">Data Scientist | Machine Learning | NLP | Computer Vision | Agentic AI Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Data+Scientist+%40+10Pearls;ML+%7C+NLP+%7C+Computer+Vision+Engineer;Agentic+AI+%26+RAG+Explorer;Final+Year+AI+Student+%40+DUET" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=620&lines=Machine+Learning+Engineer;NLP+%26+Computer+Vision+Enthusiast;Agentic+AI+%26+RAG+Explorer;Turning+Data+into+Decisions" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muhammaduzair17&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://www.linkedin.com/in/muhammaduzair17/"><img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Uzair-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:uzaimehmood123@gmail.com"><img src="https://img.shields.io/badge/Email-uzaimehmood123%40gmail.com-red?style=flat&logo=gmail" /></a>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I'm a **final-year Artificial Intelligence student** at Dawood University of Engineering and Technology, Karachi — currently interning as a **Data Scientist at 10Pearls**. I have a strong background in Machine Learning, Deep Learning, NLP, and Computer Vision, and I'm actively exploring modern AI paradigms like **Agentic AI** and **RAG-based applications**.
+I'm a **Data Scientist** based in Karachi, Pakistan, with a strong foundation in Machine Learning, Deep Learning, Natural Language Processing, and Computer Vision. I'm passionate about building intelligent systems that solve real-world problems — and I'm actively exploring cutting-edge AI paradigms like **Agentic AI** and **RAG-based applications**.
 
-I enjoy applying AI to real-world, data-driven problems and believe in learning by building. I continuously push my understanding of AI concepts while staying in sync with the fast-moving field.
+I believe in learning by building, and I'm always experimenting with new models, architectures, and ideas to push my understanding of what AI can do.
 
-- 🔭 Currently working as **Data Scientist Intern @ 10Pearls**
-- 🎓 Studying **Artificial Intelligence @ DUET Karachi**
-- 🌱 Exploring **AI Agents, RAG pipelines & LLM applications**
-- 💡 Passionate about **NLP, Computer Vision & solving real-world problems**
+- 🌱 Currently exploring **AI Agents, LLM pipelines & RAG architectures**
+- 🔍 Passionate about applying AI to **meaningful, data-driven problems**
+- 💬 Ask me about **ML, NLP, Computer Vision, or Data Analysis**
 - 📫 Reach me at **[uzaimehmood123@gmail.com](mailto:uzaimehmood123@gmail.com)**
-
----
-
-## 💼 Experience
-
-| Role | Company | Duration |
-|------|---------|----------|
-| 🔬 Data Scientist (Intern) | **10Pearls** | Dec 2025 – Present |
-| 📊 Data Analyst (Intern) | **Dawood University of Engineering & Technology** | Jul 2025 – Aug 2025 |
-| 🤖 Machine Learning Engineer (Intern) | **NextGenLearners** | Jul 2025 |
-| 📈 Data Analyst (Intern) | **Oasis Infobyte** | Oct 2024 – Nov 2024 |
 
 ---
 
@@ -57,6 +43,12 @@ I enjoy applying AI to real-world, data-driven problems and believe in learning 
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40" title="Keras"/>
 </p>
 
+### 🧬 NLP & Computer Vision
+<p>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40" title="Hugging Face"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40" title="OpenCV"/>
+</p>
+
 ### 📊 Data Analysis & Visualization
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" title="NumPy"/>
@@ -64,12 +56,6 @@ I enjoy applying AI to real-world, data-driven problems and believe in learning 
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40" title="Matplotlib"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" title="Seaborn"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40" title="Power BI"/>
-</p>
-
-### 🧬 NLP & Computer Vision
-<p>
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40" title="Hugging Face"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40" title="OpenCV"/>
 </p>
 
 ### 🧰 Tools & Platforms
@@ -81,40 +67,15 @@ I enjoy applying AI to real-world, data-driven problems and believe in learning 
 
 ---
 
-## 🚀 Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🧠 EEG Based Stroke Detection System | Processed EEG signals to detect stroke patterns | Python, Signal Processing, ML |
-| 🛍️ Retail Sales EDA | Uncovered trends from retail sales data | Pandas, Matplotlib, Seaborn |
-| 🏙️ NYC Data Cleaning | Cleaned & standardized NYC datasets | Pandas, NumPy, Regex |
-| 🔍 NLP with NLTK | Supervised/unsupervised NLP pipelines | Python, NLTK, Scikit-Learn |
-| 🧹 Data Cleaning with PostgreSQL | Database-level cleaning & transformation | PostgreSQL |
-| 📊 EDA with Pandas, Matplotlib & Seaborn | Exploratory analysis & visual storytelling | Python, Matplotlib, Seaborn |
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammaduzair17&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammaduzair17&theme=tokyonight" alt="GitHub Streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammaduzair17&layout=compact&theme=tokyonight" alt="Top Languages" width="40%"/>
-</p>
-
----
-
 ## 🤝 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammaduzair17/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:uzaimehmood123@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="Gmail" height="30" width="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="Gmail" height="35" width="45"/>
   </a>
 </p>
 
