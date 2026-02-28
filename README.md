@@ -1,7 +1,5 @@
 <h1 align="center">Hi there, I'm Muhammad Uzair 👋</h1>
 
-<h3 align="center">Data Scientist | Machine Learning | NLP | Computer Vision | Agentic AI Explorer</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=620&lines=Data+Scientist;NLP+%26+Computer+Vision+;Agentic+AI+%26+RAG+Explorer;Turning+Data+into+Decisions" alt="Typing SVG" />
 </p>
