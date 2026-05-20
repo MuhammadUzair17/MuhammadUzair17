@@ -69,8 +69,7 @@ I believe in learning by building, and I'm always experimenting with new models,
 
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammaduzair17/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:uzaimehmood123@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="Gmail" height="35" width="45"/>
@@ -79,6 +78,3 @@ I believe in learning by building, and I'm always experimenting with new models,
 
 ---
 
-<p align="center">
-  <i>"Turning data into decisions, one model at a time."</i>
-</p>
