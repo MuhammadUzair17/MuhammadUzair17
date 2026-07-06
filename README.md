@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Muhammad Uzair 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=620&lines=Data+Scientist;NLP+%26+Computer+Vision+;Agentic+AI+%26+RAG+Explorer;Turning+Data+into+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=620&lines=AI+Engineer;NLP+%26+Computer+Vision+;Agentic+AI+%26+RAG;Turning+Data+into+Decisions" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-I'm a **Data Scientist** based in Karachi, Pakistan, with a strong foundation in Machine Learning, Deep Learning, Natural Language Processing, and Computer Vision. I'm passionate about building intelligent systems that solve real-world problems, and I'm actively exploring cutting-edge AI paradigms like **Agentic AI** and **RAG-based applications**.
+I'm a **AI Engineer** based in Karachi, Pakistan, with a strong foundation in Machine Learning, Deep Learning, Natural Language Processing, and Computer Vision. I'm passionate about building intelligent systems that solve real-world problems, and I'm actively exploring cutting-edge AI paradigms like **Agentic AI** and **RAG-based applications**.
 
 I believe in learning by building, and I'm always experimenting with new models, architectures, and ideas to push my understanding of what AI can do.
 
