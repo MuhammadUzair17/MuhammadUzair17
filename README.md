@@ -19,7 +19,7 @@ I believe in learning by building, and I'm always experimenting with new models,
 - 🌱 Currently exploring **AI Agents, LLM pipelines & RAG architectures**
 - 🔍 Passionate about applying AI to **meaningful, data-driven problems**
 - 💬 Ask me about **ML, NLP, Computer Vision, or Data Analysis**
-- 📫 Reach me at **[uzaimehmood123@gmail.com](mailto:uzaimehmood123@gmail.com)**
+- 📫 Reach me at **[uzaimehmood123@gmail.com](mailto:uzair.career17@gmail.com)**
 
 ---
 
@@ -71,7 +71,7 @@ I believe in learning by building, and I'm always experimenting with new models,
   <a href="https://www.linkedin.com/in/muhammaduzair17/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:uzaimehmood123@gmail.com">
+  <a href="mailto:uzair.career17@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="Gmail" height="35" width="45"/>
   </a>
 </p>
